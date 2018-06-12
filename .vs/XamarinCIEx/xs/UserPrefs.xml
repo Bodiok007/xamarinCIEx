@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{4EB76A68-6723-4267-82C1-0076B1464EE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinCIEx.Android/Resources/values/colors.xml">
+    <Files>
+      <File FileName="XamarinCIEx/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="XamarinCIEx.Android/Resources/values/colors.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinCIEx.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.6f414fefcb576b9eac2ea824290a1aebddfc92e9" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../../../../AON/CatAlert/CatAlert_Xamarin/CatAlert/Views/ContactDetailsPage.xaml.cs" line="17" offsetX="487" offsetY="272" expression="c" liveUpdate="False" />
+    <Watch file="../../../../../../../../AON/CatAlert/CatAlert_Xamarin/CatAlert/App.xaml.cs" line="460" offsetX="638" offsetY="7768" expression="def.HttpClient" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.XamarinCIEx.Android PreferredExecutionTarget="Android.1215fcc9bb282f04" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,29 @@
+Function=xamarin_timezone_get_data
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx.iOS/obj/iPhone/Debug/device-builds/ipad4.1-11.4/mtouch-cache/Link/System.dll
+Function=mono_pmip

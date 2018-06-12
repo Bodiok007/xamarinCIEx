@@ -1,0 +1,9 @@
+/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx/bin/Debug/netstandard2.0/XamarinCIEx.deps.json
+/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx/bin/Debug/netstandard2.0/XamarinCIEx.dll
+/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx/bin/Debug/netstandard2.0/XamarinCIEx.pdb
+/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx/obj/Debug/netstandard2.0/XamarinCIEx.csprojResolveAssemblyReference.cache
+/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx/obj/Debug/netstandard2.0/XamarinCIEx.csproj.CoreCompileInputs.cache
+/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx/obj/Debug/netstandard2.0/XamarinCIEx.AssemblyInfoInputs.cache
+/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx/obj/Debug/netstandard2.0/XamarinCIEx.AssemblyInfo.cs
+/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx/obj/Debug/netstandard2.0/XamarinCIEx.dll
+/Users/bohdanhrybach/Documents/Education/Projects/XamarinExCI/xamarinCIEx/XamarinCIEx/obj/Debug/netstandard2.0/XamarinCIEx.pdb
