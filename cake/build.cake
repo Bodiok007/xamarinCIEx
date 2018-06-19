@@ -48,7 +48,7 @@ if (string.IsNullOrWhiteSpace(bundle))
 
 // -------- Project constants ------
 
-var pathRoot = ".";
+var pathRoot = "../";
 var projectCommonPartName = "XamarinCIEx";
 var assemblyInfoFile = File(Combine(pathRoot, "CommonAssemblyInfo.cs"));
 var solutionFile = File(Combine(pathRoot, projectCommonPartName + ".sln"));
