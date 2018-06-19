@@ -5,6 +5,7 @@
 #addin "Cake.Git"
 
 #load "scripts/utils.cake"
+#load "scripts/appcenter.cake"
 
 var target = Argument("target", "Default");
 
@@ -25,9 +26,9 @@ Task("Package")
     //.IsDependentOn("Package-iOS") 
     .IsDependentOn("Package-Android");
 
-/*Task("PublishToAppCenter")
-    .IsDependentOn("Publish-Android")
-    .IsDependentOn("Publish-iOS");*/
+Task("PublishToAppCenter")
+    .IsDependentOn("Publish-Android");
+    //.IsDependentOn("Publish-iOS");
 
 // ------- end Global Tasks ------------
 
