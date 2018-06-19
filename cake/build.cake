@@ -18,11 +18,11 @@ Task("Build")
     .IsDependentOn("Clear")
     .IsDependentOn("RestorePackages")
     .IsDependentOn("UpdateAssemblyInfo")
-    .IsDependentOn("BuildAndroid")
-    .IsDependentOn("BuildiOS");
+    .IsDependentOn("BuildAndroid");
+    //.IsDependentOn("BuildiOS");
 
 Task("Package")
-    .IsDependentOn("Package-iOS") 
+    //.IsDependentOn("Package-iOS") 
     .IsDependentOn("Package-Android");
 
 /*Task("PublishToAppCenter")
