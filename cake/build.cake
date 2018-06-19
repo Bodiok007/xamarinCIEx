@@ -4,6 +4,8 @@
 #addin "Cake.Plist"
 #addin "Cake.Git"
 
+#load "scripts/utils.cake"
+
 var target = Argument("target", "Default");
 
 // ------- Global Tasks ------------
@@ -11,7 +13,7 @@ var target = Argument("target", "Default");
 Task("Default")
     .IsDependentOn("Build")
     .IsDependentOn("Package");
-    
+
 Task("Build")
     .IsDependentOn("Clear")
     .IsDependentOn("RestorePackages")
