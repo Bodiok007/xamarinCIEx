@@ -6,6 +6,7 @@
 
 #load "scripts/utils.cake"
 #load "scripts/appcenter.cake"
+#load "scripts/hockeyApp.cake"
 
 var target = Argument("target", "Default");
 
@@ -29,6 +30,10 @@ Task("Package")
 Task("PublishToAppCenter")
     .IsDependentOn("Publish-Android");
     //.IsDependentOn("Publish-iOS");
+
+Task("PublishToHockeyApp")
+    .IsDependentOn("Publish-Android-HockeyApp");
+    //.IsDependentOn("Publish-iOS-HockeyApp");
 
 // ------- end Global Tasks ------------
 
